@@ -1,0 +1,56 @@
+[
+	{
+		"id": "40",
+		"name": "GRANADE",
+		"full_name": "Granade",
+		"image": "/images/all/granade.png",
+		"throwtime": "1.30s",
+		"friction": "0.62s",
+		"weight": "14"
+	},
+	{
+		"id": "41",
+		"name": "MOLTOVE",
+		"full_name": "Moltov",
+		"image": "/images/all/moltov.png",
+		"throwtime": "0.85s",
+		"friction": "20s",
+		"weight": "1"
+	},
+	{
+		"id": "42",
+		"name": "SMOKE",
+		"full_name": "Smoke Granade",
+		"image": "/images/all/smoke.png",
+		"throwtime": "1.30s",
+		"friction": "0.60s",
+		"weight": "14"
+	},
+	{
+		"id": "43",
+		"name": "STUN",
+		"full_name": "Stun Granade",
+		"image": "/images/all/stun.png",
+		"throwtime": "1.30s",
+		"friction": "0.80s",
+		"weight": "12"
+	},
+	{
+		"id": "48",
+		"name": "APPLE",
+		"full_name": "Apple",
+		"image": "/images/all/apple.png",
+		"throwtime": "1.30s",
+		"friction": "0.35s",
+		"weight": "1"
+	},
+	{
+		"id": "49",
+		"name": "SNOW-BALL",
+		"full_name": "Snow Ball",
+		"image": "/images/all/snow-ball.png",
+		"throwtime": "1.30s",
+		"friction": "0.00s",
+		"weight": "1"
+	}
+]

@@ -1,0 +1,182 @@
+[
+	{
+		"details": {
+			"id": "2",
+			"name": "Bulletloop (Kar98K, Win94)",
+			"short_des": "Increases reload speed by 30%. It also has an unmentioned effect of decreasing the base spread by 50%.",
+			"image": "\/images\/all\/bulletloop-kar98k-win94.png",
+			"useon": "Kar98k,Win94"
+		},
+		"guns": [
+			{
+				"id": "9",
+				"name": "Kar98K",
+				"image": "\/images\/all\/kar98k.png"
+			},
+			{
+				"id": "12",
+				"name": "Win94",
+				"image": "\/images\/all\/win94.png"
+			}
+		]
+	},
+	{
+		"details": {
+			"id": "3",
+			"name": "Bulletloop (Shotgun)",
+			"short_des": "",
+			"image": "\/images\/all\/bulletloop-shotgun.png",
+			"useon": "S686,S1897,S12K,DBS"
+		},
+		"guns": [
+			{
+				"id": "23",
+				"name": "S686",
+				"image": "\/images\/all\/s686.png"
+			},
+			{
+				"id": "24",
+				"name": "S1897",
+				"image": "\/images\/all\/s1897.png"
+			},
+			{
+				"id": "25",
+				"name": "S12K",
+				"image": "\/images\/all\/s12k.png"
+			},
+			{
+				"id": "50",
+				"name": "DBS",
+				"image": "\/images\/all\/dbs.png"
+			}
+		]
+	},
+	{
+		"details": {
+			"id": "10",
+			"name": "Cheek Pad",
+			"short_des": "",
+			"image": "\/images\/all\/cheek-pad.png",
+			"useon": "Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU"
+		},
+		"guns": [
+			{
+				"id": "9",
+				"name": "Kar98K",
+				"image": "\/images\/all\/kar98k.png"
+			},
+			{
+				"id": "10",
+				"name": "M24",
+				"image": "\/images\/all\/m24.png"
+			},
+			{
+				"id": "11",
+				"name": "AWM",
+				"image": "\/images\/all\/awm.png"
+			},
+			{
+				"id": "12",
+				"name": "Win94",
+				"image": "\/images\/all\/win94.png"
+			},
+			{
+				"id": "13",
+				"name": "SKS",
+				"image": "\/images\/all\/sks.png"
+			},
+			{
+				"id": "14",
+				"name": "VSS",
+				"image": "\/images\/all\/vss.png"
+			},
+			{
+				"id": "15",
+				"name": "Mini 14",
+				"image": "\/images\/all\/mini14.png"
+			},
+			{
+				"id": "16",
+				"name": "MK14",
+				"image": "\/images\/all\/mk14.png"
+			},
+			{
+				"id": "17",
+				"name": "SLR",
+				"image": "\/images\/all\/slr.png"
+			},
+			{
+				"id": "18",
+				"name": "QBU",
+				"image": "\/images\/all\/qbu.png"
+			}
+		]
+	},
+	{
+		"details": {
+			"id": "11",
+			"name": "Tact Stock",
+			"short_des": "",
+			"image": "\/images\/all\/tact-stock.png",
+			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C"
+		},
+		"guns": [
+			{
+				"id": "2",
+				"name": "M16A4",
+				"image": "\/images\/all\/m16a4.png"
+			},
+			{
+				"id": "3",
+				"name": "Scar-L",
+				"image": "\/images\/all\/scar-l.png"
+			},
+			{
+				"id": "4",
+				"name": "M416",
+				"image": "\/images\/all\/m416.png"
+			},
+			{
+				"id": "5",
+				"name": "Groza",
+				"image": "\/images\/all\/groza.png"
+			},
+			{
+				"id": "6",
+				"name": "AUG-A3",
+				"image": "\/images\/all\/aug.png"
+			},
+			{
+				"id": "7",
+				"name": "QBZ",
+				"image": "\/images\/all\/qbz.png"
+			},
+			{
+				"id": "8",
+				"name": "M762",
+				"image": "\/images\/all\/m762.png"
+			},
+			{
+				"id": "45",
+				"name": "G36C",
+				"image": "\/images\/all\/g36c.png"
+			}
+		]
+	},
+	{
+		"details": {
+			"id": "12",
+			"name": "Stock Micro",
+			"short_des": "",
+			"image": "\/images\/all\/stock-micro.png",
+			"useon": "UZI"
+		},
+		"guns": [
+			{
+				"id": "19",
+				"name": "UZI",
+				"image": "\/images\/all\/uzi.png"
+			}
+		]
+	}
+]
