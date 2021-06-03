@@ -23,6 +23,7 @@ There is all API likes for all items
 | [api/health.json](https://raw.githubusercontent.com/pubgapi/v2-json/main/health.json "api/health.json")  | All Consumables (First-ad, Bandages etc)  | --
 | [api/maps.json](https://raw.githubusercontent.com/pubgapi/v2-json/main/maps.json "api/maps.json")  | All Maps  | --
 | [api/vehicles.json](https://raw.githubusercontent.com/pubgapi/v2-json/main/vehicles.json "api/vehicles.json")  | All Vehicles  | --
+| [api/tier.json](https://raw.githubusercontent.com/pubgapi/v2-json/main/tier.json "api/tier.json")  | All Tiers Details (Conqueror, Ace etc)  | --
 
 
 ### Dynamic Json
