@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "Conqueror",
+    "image": "\/images\/tier\/conqueror.png",
+    "des": "Top 500 Player of Server",
+    "point": "4200 - "
+  },
+  {
+    "id": "2",
+    "name": "Ace",
+    "image": "\/images\/tier\/ace.png",
+    "des": "2nd Last Highest Tier",
+    "point": "4200 - 4200"
+  },
+  {
+    "id": "3",
+    "name": "Crown",
+    "image": "\/images\/tier\/crown.png",
+    "des": "3rd Last Highest Tier",
+    "point": "3700 - 4199"
+  },
+  {
+    "id": "4",
+    "name": "Diamond",
+    "image": "\/images\/tier\/diamond.png",
+    "des": "Get Free Random Gun Skin",
+    "point": "3300 - 3699"
+  },
+  {
+    "id": "5",
+    "name": "Platinum",
+    "image": "\/images\/tier\/platinum.png",
+    "des": "Middle Level Tier",
+    "point": "2700 - 3199"
+  },
+  {
+    "id": "6",
+    "name": "Gold",
+    "image": "\/images\/tier\/gold.png",
+    "des": "Get Free Season Outfit",
+    "point": "2200 - 2699"
+  },
+  {
+    "id": "7",
+    "name": "Silver",
+    "image": "\/images\/tier\/silver.png",
+    "des": "2nd Lowest Tier",
+    "point": "1700 - 2199"
+  },
+  {
+    "id": "8",
+    "name": "Bronze",
+    "image": "\/images\/tier\/bronze.png",
+    "des": "1st Lowest Tier",
+    "point": "1200 - 1699"
+  }
+]
