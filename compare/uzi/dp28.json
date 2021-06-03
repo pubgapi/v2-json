@@ -2,7 +2,7 @@
 	{
 		"id": "19",
 		"name": "UZI",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/uzi.png",
+		"image": "\/images\/all\/uzi.png",
 		"short_description": "",
 		"bullet_type": "9mm",
 		"without_mag": "25",
@@ -19,45 +19,45 @@
 			"bullet": [
 				{
 					"name": "9mm",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/9mm.png"
+					"image": "\/images\/all\/9mm.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
+					"image": "\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
+					"image": "\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "Ext. Quickd (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-smg.png"
+					"image": "\/images\/all\/extended-quickdraw-mag-smg.png"
 				},
 				{
 					"name": "Quickdraw (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-smg.png"
+					"image": "\/images\/all\/quickdraw-mag-smg.png"
 				},
 				{
 					"name": "Extended (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-smg.png"
+					"image": "\/images\/all\/extended-mag-smg.png"
 				},
 				{
 					"name": "Suppressor (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/supressor-smg.png"
+					"image": "\/images\/all\/supressor-smg.png"
 				},
 				{
 					"name": "Flash Hider (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flash-hider-smg.png"
+					"image": "\/images\/all\/flash-hider-smg.png"
 				},
 				{
 					"name": "Compensator (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/compensator-smg.png"
+					"image": "\/images\/all\/compensator-smg.png"
 				},
 				{
 					"name": "Stock Micro",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/stock-micro.png"
+					"image": "\/images\/all\/stock-micro.png"
 				}
 			]
 		}
@@ -65,7 +65,7 @@
 	{
 		"id": "27",
 		"name": "DP-28",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/dp28.png",
+		"image": "\/images\/all\/dp28.png",
 		"short_description": "",
 		"bullet_type": "7.62mm",
 		"without_mag": "47",
@@ -82,7 +82,7 @@
 			"bullet": [
 				{
 					"name": "7.62mm",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/7_62mm.png"
+					"image": "\/images\/all\/7_62mm.png"
 				}
 			],
 			"attach": [

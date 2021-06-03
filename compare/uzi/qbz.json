@@ -2,7 +2,7 @@
 	{
 		"id": "19",
 		"name": "UZI",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/uzi.png",
+		"image": "\/images\/all\/uzi.png",
 		"short_description": "",
 		"bullet_type": "9mm",
 		"without_mag": "25",
@@ -19,45 +19,45 @@
 			"bullet": [
 				{
 					"name": "9mm",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/9mm.png"
+					"image": "\/images\/all\/9mm.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
+					"image": "\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
+					"image": "\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "Ext. Quickd (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-smg.png"
+					"image": "\/images\/all\/extended-quickdraw-mag-smg.png"
 				},
 				{
 					"name": "Quickdraw (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-smg.png"
+					"image": "\/images\/all\/quickdraw-mag-smg.png"
 				},
 				{
 					"name": "Extended (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-smg.png"
+					"image": "\/images\/all\/extended-mag-smg.png"
 				},
 				{
 					"name": "Suppressor (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/supressor-smg.png"
+					"image": "\/images\/all\/supressor-smg.png"
 				},
 				{
 					"name": "Flash Hider (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flash-hider-smg.png"
+					"image": "\/images\/all\/flash-hider-smg.png"
 				},
 				{
 					"name": "Compensator (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/compensator-smg.png"
+					"image": "\/images\/all\/compensator-smg.png"
 				},
 				{
 					"name": "Stock Micro",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/stock-micro.png"
+					"image": "\/images\/all\/stock-micro.png"
 				}
 			]
 		}
@@ -65,7 +65,7 @@
 	{
 		"id": "7",
 		"name": "QBZ",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbz.png",
+		"image": "\/images\/all\/qbz.png",
 		"short_description": "The QBZ-95 was first observed outside China on 1 July 1997, when the United Kingdom transferred the sovereignty of Hong Kong to the People's Republic of China",
 		"bullet_type": "5.56mm",
 		"without_mag": "30",
@@ -82,89 +82,89 @@
 			"bullet": [
 				{
 					"name": "5.56mm",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/5_56mm.png"
+					"image": "\/images\/all\/5_56mm.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
+					"image": "\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
+					"image": "\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/2x.png"
+					"image": "\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/3x.png"
+					"image": "\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/4x.png"
+					"image": "\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/6x.png"
+					"image": "\/images\/all\/6x.png"
 				},
 				{
 					"name": "Ext. Quickdraw  (AR)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-ar.png"
+					"image": "\/images\/all\/extended-quickdraw-mag-ar.png"
 				},
 				{
 					"name": "Quickdraw (AR)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-ar.png"
+					"image": "\/images\/all\/quickdraw-mag-ar.png"
 				},
 				{
 					"name": "Extended (AR)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-ar.png"
+					"image": "\/images\/all\/extended-mag-ar.png"
 				},
 				{
 					"name": "Suppressor (AR)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/supressor-ar.png"
+					"image": "\/images\/all\/supressor-ar.png"
 				},
 				{
 					"name": "Flash Hider (AR)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flash-hider-ar.png"
+					"image": "\/images\/all\/flash-hider-ar.png"
 				},
 				{
 					"name": "Compensator (AR)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/compensator-ar.png"
+					"image": "\/images\/all\/compensator-ar.png"
 				},
 				{
 					"name": "Thumb Grip",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/thumb-grip.png"
+					"image": "\/images\/all\/thumb-grip.png"
 				},
 				{
 					"name": "Laser Sight",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/laser-sight.png"
+					"image": "\/images\/all\/laser-sight.png"
 				},
 				{
 					"name": "Half Grip",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/half-grip.png"
+					"image": "\/images\/all\/half-grip.png"
 				},
 				{
 					"name": "Light Grip",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/light-grip.png"
+					"image": "\/images\/all\/light-grip.png"
 				},
 				{
 					"name": "Verticle Grip",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/verticle-grip.png"
+					"image": "\/images\/all\/verticle-grip.png"
 				},
 				{
 					"name": "Angled Grip",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/angled-grip.png"
+					"image": "\/images\/all\/angled-grip.png"
 				},
 				{
 					"name": "Cheek Pad",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/cheek-pad.png"
+					"image": "\/images\/all\/cheek-pad.png"
 				},
 				{
 					"name": "Tact Stock",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/tact-stock.png"
+					"image": "\/images\/all\/tact-stock.png"
 				}
 			]
 		}

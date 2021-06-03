@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Adrenaline Syringe",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/adrenaline.png",
+		"image": "\/images\/all\/adrenaline.png",
 		"url": "ad-syringe",
 		"heals": "100%",
 		"capacity": "20",
@@ -9,7 +9,7 @@
 	},
 	{
 		"name": "Pain Killer",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/painkiller.png",
+		"image": "\/images\/all\/painkiller.png",
 		"url": "p-killer",
 		"heals": "60%",
 		"capacity": "10",
@@ -17,7 +17,7 @@
 	},
 	{
 		"name": "Energy Drink",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/energy-drink.png",
+		"image": "\/images\/all\/energy-drink.png",
 		"url": "e-drink",
 		"heals": "40%",
 		"capacity": "12",
@@ -25,7 +25,7 @@
 	},
 	{
 		"name": "First Aid Kit",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/first-aid.png",
+		"image": "\/images\/all\/first-aid.png",
 		"url": "fa-kit",
 		"heals": "75%",
 		"capacity": "20",
@@ -33,7 +33,7 @@
 	},
 	{
 		"name": "MedKit",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/medkit.png",
+		"image": "\/images\/all\/medkit.png",
 		"url": "m-kit",
 		"heals": "100%",
 		"capacity": "20",
@@ -41,7 +41,7 @@
 	},
 	{
 		"name": "Bandage",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/bandage.png",
+		"image": "\/images\/all\/bandage.png",
 		"url": "bandage",
 		"heals": "10%",
 		"capacity": "10",

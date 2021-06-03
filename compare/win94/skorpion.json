@@ -2,7 +2,7 @@
 	{
 		"id": "12",
 		"name": "Win94",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/win94.png",
+		"image": "\/images\/all\/win94.png",
 		"short_description": "",
 		"bullet_type": ".45 ACP",
 		"without_mag": "5",
@@ -19,61 +19,61 @@
 			"bullet": [
 				{
 					"name": ".45 ACP",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/45acp.png"
+					"image": "\/images\/all\/45acp.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
+					"image": "\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
+					"image": "\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/2x.png"
+					"image": "\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/3x.png"
+					"image": "\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/4x.png"
+					"image": "\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/6x.png"
+					"image": "\/images\/all\/6x.png"
 				},
 				{
 					"name": "Ext. Quickdraw (Sniper)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-sniper.png"
+					"image": "\/images\/all\/extended-quickdraw-mag-sniper.png"
 				},
 				{
 					"name": "Quickdraw (Sniper)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-sniper.png"
+					"image": "\/images\/all\/quickdraw-mag-sniper.png"
 				},
 				{
 					"name": "Extended (Sniper)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-sniper.png"
+					"image": "\/images\/all\/extended-mag-sniper.png"
 				},
 				{
 					"name": "Suppressor (SNIPER)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/supressor-sniper.png"
+					"image": "\/images\/all\/supressor-sniper.png"
 				},
 				{
 					"name": "Flash Hider (Sniper)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flash-hider-sniper.png"
+					"image": "\/images\/all\/flash-hider-sniper.png"
 				},
 				{
 					"name": "Compensator (Sniper)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/compensator-sniper.png"
+					"image": "\/images\/all\/compensator-sniper.png"
 				},
 				{
 					"name": "Bulletloop (Kar98K, Win94)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/bulletloop-kar98k-win94.png"
+					"image": "\/images\/all\/bulletloop-kar98k-win94.png"
 				}
 			]
 		}
@@ -81,7 +81,7 @@
 	{
 		"id": "54",
 		"name": "Skorpion",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/Icon_weapon_Skorpion.png",
+		"image": "\/images\/all\/Icon_weapon_Skorpion.png",
 		"short_description": "",
 		"bullet_type": "9mm",
 		"without_mag": "20",
@@ -98,33 +98,33 @@
 			"bullet": [
 				{
 					"name": "9mm",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/9mm.png"
+					"image": "\/images\/all\/9mm.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
+					"image": "\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
+					"image": "\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "Ext. Quickdraw (Pistol)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-pistol.png"
+					"image": "\/images\/all\/extended-quickdraw-mag-pistol.png"
 				},
 				{
 					"name": "Quickdraw (Pistol)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-pistol.png"
+					"image": "\/images\/all\/quickdraw-mag-pistol.png"
 				},
 				{
 					"name": "Extended (Pistol)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-pistol.png"
+					"image": "\/images\/all\/extended-mag-pistol.png"
 				},
 				{
 					"name": "Suppressor (Pistol)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/supressor-pistol.png"
+					"image": "\/images\/all\/supressor-pistol.png"
 				}
 			]
 		}

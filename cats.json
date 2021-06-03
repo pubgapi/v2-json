@@ -3,56 +3,56 @@
 		"id": "8",
 		"name": "AR",
 		"full_name": "Assault Rifels",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/gun-category\/ar-gun.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/cat\/ar.json"
+		"image": "\/images\/gun-category\/ar-gun.png",
+		"source": "\/cat\/ar.json"
 	},
 	{
 		"id": "13",
 		"name": "LMG",
 		"full_name": "Light Machine Guns",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/gun-category\/lmg.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/cat\/lmg.json"
+		"image": "\/images\/gun-category\/lmg.png",
+		"source": "\/cat\/lmg.json"
 	},
 	{
 		"id": "12",
 		"name": "MR",
 		"full_name": "Marksman Rifles",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/gun-category\/marksman-rifles.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/cat\/mr.json"
+		"image": "\/images\/gun-category\/marksman-rifles.png",
+		"source": "\/cat\/mr.json"
 	},
 	{
 		"id": "10",
 		"name": "OTHER",
 		"full_name": "Others",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/gun-category\/others.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/cat\/other.json"
+		"image": "\/images\/gun-category\/others.png",
+		"source": "\/cat\/other.json"
 	},
 	{
 		"id": "2",
 		"name": "PISTOL",
 		"full_name": "Pistols",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/gun-category\/pistol.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/cat\/pistol.json"
+		"image": "\/images\/gun-category\/pistol.png",
+		"source": "\/cat\/pistol.json"
 	},
 	{
 		"id": "6",
 		"name": "SHOTGUN",
 		"full_name": "Shotguns",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/gun-category\/shotgun-gun.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/cat\/shotgun.json"
+		"image": "\/images\/gun-category\/shotgun-gun.png",
+		"source": "\/cat\/shotgun.json"
 	},
 	{
 		"id": "7",
 		"name": "SNIPER",
 		"full_name": "Sniper Rifels",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/gun-category\/sniper-gun.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/cat\/sniper.json"
+		"image": "\/images\/gun-category\/sniper-gun.png",
+		"source": "\/cat\/sniper.json"
 	},
 	{
 		"id": "3",
 		"name": "SMG",
 		"full_name": "Sub Machine Guns",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/gun-category\/smg-gun.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/cat\/smg.json"
+		"image": "\/images\/gun-category\/smg-gun.png",
+		"source": "\/cat\/smg.json"
 	}
 ]

@@ -2,7 +2,7 @@
 	{
 		"id": "34",
 		"name": "Flare Gun",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flare.png",
+		"image": "\/images\/all\/flare.png",
 		"short_description": "Flare gun is used to create illumination for improved vision or as a distress signal.",
 		"bullet_type": "Flare",
 		"without_mag": "1",
@@ -19,13 +19,13 @@
 			"bullet": [
 				{
 					"name": "Flare",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flare-ammo.png"
+					"image": "\/images\/all\/flare-ammo.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Quiver",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quiver.png"
+					"image": "\/images\/all\/quiver.png"
 				}
 			]
 		}
@@ -33,7 +33,7 @@
 	{
 		"id": "20",
 		"name": "UMP45",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/ump45.png",
+		"image": "\/images\/all\/ump45.png",
 		"short_description": "The UMP has been adopted by various agencies such as the U.S. Customs and Border Protection.",
 		"bullet_type": "9mm",
 		"without_mag": "30",
@@ -50,61 +50,61 @@
 			"bullet": [
 				{
 					"name": ".45 ACP",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/45acp.png"
+					"image": "\/images\/all\/45acp.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
+					"image": "\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
+					"image": "\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/2x.png"
+					"image": "\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/3x.png"
+					"image": "\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/4x.png"
+					"image": "\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/6x.png"
+					"image": "\/images\/all\/6x.png"
 				},
 				{
 					"name": "Ext. Quickd (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-smg.png"
+					"image": "\/images\/all\/extended-quickdraw-mag-smg.png"
 				},
 				{
 					"name": "Quickdraw (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-smg.png"
+					"image": "\/images\/all\/quickdraw-mag-smg.png"
 				},
 				{
 					"name": "Extended (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-smg.png"
+					"image": "\/images\/all\/extended-mag-smg.png"
 				},
 				{
 					"name": "Suppressor (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/supressor-smg.png"
+					"image": "\/images\/all\/supressor-smg.png"
 				},
 				{
 					"name": "Flash Hider (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flash-hider-smg.png"
+					"image": "\/images\/all\/flash-hider-smg.png"
 				},
 				{
 					"name": "Compensator (SMG)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/compensator-smg.png"
+					"image": "\/images\/all\/compensator-smg.png"
 				},
 				{
 					"name": "Stock Micro",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/stock-micro.png"
+					"image": "\/images\/all\/stock-micro.png"
 				}
 			]
 		}

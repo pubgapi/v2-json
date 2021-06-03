@@ -2,7 +2,7 @@
 	{
 		"id": "14",
 		"name": "VSS",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/vss.png",
+		"image": "\/images\/all\/vss.png",
 		"short_description": "",
 		"bullet_type": "9mm",
 		"without_mag": "10",
@@ -19,33 +19,33 @@
 			"bullet": [
 				{
 					"name": "9mm",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/9mm.png"
+					"image": "\/images\/all\/9mm.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
+					"image": "\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
+					"image": "\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/2x.png"
+					"image": "\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/3x.png"
+					"image": "\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/4x.png"
+					"image": "\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/6x.png"
+					"image": "\/images\/all\/6x.png"
 				}
 			]
 		}
@@ -53,7 +53,7 @@
 	{
 		"id": "27",
 		"name": "DP-28",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/dp28.png",
+		"image": "\/images\/all\/dp28.png",
 		"short_description": "",
 		"bullet_type": "7.62mm",
 		"without_mag": "47",
@@ -70,7 +70,7 @@
 			"bullet": [
 				{
 					"name": "7.62mm",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/7_62mm.png"
+					"image": "\/images\/all\/7_62mm.png"
 				}
 			],
 			"attach": [

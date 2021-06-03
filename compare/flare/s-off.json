@@ -2,7 +2,7 @@
 	{
 		"id": "34",
 		"name": "Flare Gun",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flare.png",
+		"image": "\/images\/all\/flare.png",
 		"short_description": "Flare gun is used to create illumination for improved vision or as a distress signal.",
 		"bullet_type": "Flare",
 		"without_mag": "1",
@@ -19,13 +19,13 @@
 			"bullet": [
 				{
 					"name": "Flare",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flare-ammo.png"
+					"image": "\/images\/all\/flare-ammo.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Quiver",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quiver.png"
+					"image": "\/images\/all\/quiver.png"
 				}
 			]
 		}
@@ -33,7 +33,7 @@
 	{
 		"id": "33",
 		"name": "Sawed-off",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/sawed-off.png",
+		"image": "\/images\/all\/sawed-off.png",
 		"short_description": "",
 		"bullet_type": "12 Gauge",
 		"without_mag": "2",
@@ -50,29 +50,29 @@
 			"bullet": [
 				{
 					"name": "12 Gauge",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/12-gauge.png"
+					"image": "\/images\/all\/12-gauge.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
+					"image": "\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
+					"image": "\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "Duckbill",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/duckbill.png"
+					"image": "\/images\/all\/duckbill.png"
 				},
 				{
 					"name": "Choke",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/choke.png"
+					"image": "\/images\/all\/choke.png"
 				},
 				{
 					"name": "Bulletloop (Shotgun)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/bulletloop-shotgun.png"
+					"image": "\/images\/all\/bulletloop-shotgun.png"
 				}
 			]
 		}

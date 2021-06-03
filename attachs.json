@@ -1,27 +1,27 @@
 [
 	{
 		"category": "Foregrip",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/assets-images\/foregrip.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/attach\/foregrip.json"
+		"image": "\/images\/assets-images\/foregrip.png",
+		"source": "\/attach\/foregrip.json"
 	},
 	{
 		"category": "Magzine",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/assets-images\/magzine.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/attach\/magzine.json"
+		"image": "\/images\/assets-images\/magzine.png",
+		"source": "\/attach\/magzine.json"
 	},
 	{
 		"category": "Muzzle",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/assets-images\/muzzle.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/attach\/muzzle.json"
+		"image": "\/images\/assets-images\/muzzle.png",
+		"source": "\/attach\/muzzle.json"
 	},
 	{
 		"category": "Sight",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/assets-images\/sight.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/attach\/sight.json"
+		"image": "\/images\/assets-images\/sight.png",
+		"source": "\/attach\/sight.json"
 	},
 	{
 		"category": "Stock",
-		"image": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/images\/assets-images\/stock.png",
-		"source": "https:\/\/raw.githubusercontent.com\/pubgapi\/v2-json\/main\/attach\/stock.json"
+		"image": "\/images\/assets-images\/stock.png",
+		"source": "\/attach\/stock.json"
 	}
 ]

@@ -2,7 +2,7 @@
 	{
 		"id": "39",
 		"name": "Crossbow",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/crossbow.png",
+		"image": "\/images\/all\/crossbow.png",
 		"short_description": "A crossbow is a type of elastic ranged weapon in similar principle to a bow, consisting of a bow-like assembly called a prod.",
 		"bullet_type": "Bolt",
 		"without_mag": "1",
@@ -19,37 +19,37 @@
 			"bullet": [
 				{
 					"name": "Bolt",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/bolt.png"
+					"image": "\/images\/all\/bolt.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
+					"image": "\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
+					"image": "\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/2x.png"
+					"image": "\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/3x.png"
+					"image": "\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/4x.png"
+					"image": "\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/6x.png"
+					"image": "\/images\/all\/6x.png"
 				},
 				{
 					"name": "Quiver",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quiver.png"
+					"image": "\/images\/all\/quiver.png"
 				}
 			]
 		}
@@ -57,7 +57,7 @@
 	{
 		"id": "25",
 		"name": "S12K",
-		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/s12k.png",
+		"image": "\/images\/all\/s12k.png",
 		"short_description": "",
 		"bullet_type": "12 Gauge",
 		"without_mag": "5",
@@ -74,45 +74,45 @@
 			"bullet": [
 				{
 					"name": "12 Gauge",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/12-gauge.png"
+					"image": "\/images\/all\/12-gauge.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
+					"image": "\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
+					"image": "\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/2x.png"
+					"image": "\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/3x.png"
+					"image": "\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/4x.png"
+					"image": "\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/6x.png"
+					"image": "\/images\/all\/6x.png"
 				},
 				{
 					"name": "Duckbill",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/duckbill.png"
+					"image": "\/images\/all\/duckbill.png"
 				},
 				{
 					"name": "Choke",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/choke.png"
+					"image": "\/images\/all\/choke.png"
 				},
 				{
 					"name": "Bulletloop (Shotgun)",
-					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/bulletloop-shotgun.png"
+					"image": "\/images\/all\/bulletloop-shotgun.png"
 				}
 			]
 		}
