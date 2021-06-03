@@ -221,6 +221,18 @@
 					"image": "\/images\/all\/red-dot.png"
 				},
 				{
+					"name": "Ext. Quickdraw (Pistol)",
+					"image": "\/images\/all\/extended-quickdraw-mag-pistol.png"
+				},
+				{
+					"name": "Quickdraw (Pistol)",
+					"image": "\/images\/all\/quickdraw-mag-pistol.png"
+				},
+				{
+					"name": "Extended (Pistol)",
+					"image": "\/images\/all\/extended-mag-pistol.png"
+				},
+				{
 					"name": "Duckbill",
 					"image": "\/images\/all\/duckbill.png"
 				},
@@ -229,8 +241,8 @@
 					"image": "\/images\/all\/choke.png"
 				},
 				{
-					"name": "Bulletloop (Shotgun)",
-					"image": "\/images\/all\/bulletloop-shotgun.png"
+					"name": "Suppressor (Pistol)",
+					"image": "\/images\/all\/supressor-pistol.png"
 				}
 			]
 		}
