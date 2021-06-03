@@ -3,60 +3,59 @@
 		"details": {
 			"id": "25",
 			"name": "Ext. Quickdraw  (AR)",
-			"short_des": "",
-			"image": "\/images\/all\/extended-quickdraw-mag-ar.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-ar.png",
 			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,MK47-Mutant,G36C"
 		},
 		"guns": [
 			{
 				"id": "1",
 				"name": "AKM",
-				"image": "\/images\/all\/akm.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/akm.png"
 			},
 			{
 				"id": "2",
 				"name": "M16A4",
-				"image": "\/images\/all\/m16a4.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m16a4.png"
 			},
 			{
 				"id": "3",
 				"name": "Scar-L",
-				"image": "\/images\/all\/scar-l.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/scar-l.png"
 			},
 			{
 				"id": "4",
 				"name": "M416",
-				"image": "\/images\/all\/m416.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m416.png"
 			},
 			{
 				"id": "5",
 				"name": "Groza",
-				"image": "\/images\/all\/groza.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/groza.png"
 			},
 			{
 				"id": "6",
 				"name": "AUG-A3",
-				"image": "\/images\/all\/aug.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/aug.png"
 			},
 			{
 				"id": "7",
 				"name": "QBZ",
-				"image": "\/images\/all\/qbz.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbz.png"
 			},
 			{
 				"id": "8",
 				"name": "M762",
-				"image": "\/images\/all\/m762.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m762.png"
 			},
 			{
 				"id": "44",
 				"name": "MK47-Mutant",
-				"image": "\/images\/all\/mk47.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/mk47.png"
 			},
 			{
 				"id": "45",
 				"name": "G36C",
-				"image": "\/images\/all\/g36c.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/g36c.png"
 			}
 		]
 	},
@@ -64,60 +63,59 @@
 		"details": {
 			"id": "26",
 			"name": "Ext. Quickdraw (Sniper)",
-			"short_des": "",
-			"image": "\/images\/all\/extended-quickdraw-mag-sniper.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-sniper.png",
 			"useon": "Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU"
 		},
 		"guns": [
 			{
 				"id": "9",
 				"name": "Kar98K",
-				"image": "\/images\/all\/kar98k.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/kar98k.png"
 			},
 			{
 				"id": "10",
 				"name": "M24",
-				"image": "\/images\/all\/m24.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m24.png"
 			},
 			{
 				"id": "11",
 				"name": "AWM",
-				"image": "\/images\/all\/awm.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/awm.png"
 			},
 			{
 				"id": "12",
 				"name": "Win94",
-				"image": "\/images\/all\/win94.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/win94.png"
 			},
 			{
 				"id": "13",
 				"name": "SKS",
-				"image": "\/images\/all\/sks.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/sks.png"
 			},
 			{
 				"id": "14",
 				"name": "VSS",
-				"image": "\/images\/all\/vss.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/vss.png"
 			},
 			{
 				"id": "15",
 				"name": "Mini 14",
-				"image": "\/images\/all\/mini14.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/mini14.png"
 			},
 			{
 				"id": "16",
 				"name": "MK14",
-				"image": "\/images\/all\/mk14.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/mk14.png"
 			},
 			{
 				"id": "17",
 				"name": "SLR",
-				"image": "\/images\/all\/slr.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/slr.png"
 			},
 			{
 				"id": "18",
 				"name": "QBU",
-				"image": "\/images\/all\/qbu.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbu.png"
 			}
 		]
 	},
@@ -125,30 +123,29 @@
 		"details": {
 			"id": "27",
 			"name": "Ext. Quickd (SMG)",
-			"short_des": "",
-			"image": "\/images\/all\/extended-quickdraw-mag-smg.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-smg.png",
 			"useon": "UZI,UMP45,Vector,Thompson SMG"
 		},
 		"guns": [
 			{
 				"id": "19",
 				"name": "UZI",
-				"image": "\/images\/all\/uzi.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/uzi.png"
 			},
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/ump45.png"
 			},
 			{
 				"id": "21",
 				"name": "Vector",
-				"image": "\/images\/all\/vector.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/vector.png"
 			},
 			{
 				"id": "22",
 				"name": "Thompson SMG",
-				"image": "\/images\/all\/thompson.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/thompson.png"
 			}
 		]
 	},
@@ -156,50 +153,49 @@
 		"details": {
 			"id": "28",
 			"name": "Ext. Quickdraw (Pistol)",
-			"short_des": "",
-			"image": "\/images\/all\/extended-quickdraw-mag-pistol.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-pistol.png",
 			"useon": "P92,P1911,R1895,P18C,R45,Sawed-off,Skorpion,Desert Eagle"
 		},
 		"guns": [
 			{
 				"id": "28",
 				"name": "P92",
-				"image": "\/images\/all\/p92.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/p92.png"
 			},
 			{
 				"id": "29",
 				"name": "P1911",
-				"image": "\/images\/all\/p1911.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/p1911.png"
 			},
 			{
 				"id": "30",
 				"name": "R1895",
-				"image": "\/images\/all\/r1895.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/r1895.png"
 			},
 			{
 				"id": "31",
 				"name": "P18C",
-				"image": "\/images\/all\/p18c.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/p18c.png"
 			},
 			{
 				"id": "32",
 				"name": "R45",
-				"image": "\/images\/all\/r45.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/r45.png"
 			},
 			{
 				"id": "33",
 				"name": "Sawed-off",
-				"image": "\/images\/all\/sawed-off.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/sawed-off.png"
 			},
 			{
 				"id": "54",
 				"name": "Skorpion",
-				"image": "\/images\/all\/Icon_weapon_Skorpion.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/Icon_weapon_Skorpion.png"
 			},
 			{
 				"id": "55",
 				"name": "Desert Eagle",
-				"image": "\/images\/all\/Desert-eagle.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/Desert-eagle.png"
 			}
 		]
 	},
@@ -207,60 +203,59 @@
 		"details": {
 			"id": "29",
 			"name": "Quickdraw (AR)",
-			"short_des": "",
-			"image": "\/images\/all\/quickdraw-mag-ar.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-ar.png",
 			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,MK47-Mutant,G36C"
 		},
 		"guns": [
 			{
 				"id": "1",
 				"name": "AKM",
-				"image": "\/images\/all\/akm.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/akm.png"
 			},
 			{
 				"id": "2",
 				"name": "M16A4",
-				"image": "\/images\/all\/m16a4.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m16a4.png"
 			},
 			{
 				"id": "3",
 				"name": "Scar-L",
-				"image": "\/images\/all\/scar-l.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/scar-l.png"
 			},
 			{
 				"id": "4",
 				"name": "M416",
-				"image": "\/images\/all\/m416.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m416.png"
 			},
 			{
 				"id": "5",
 				"name": "Groza",
-				"image": "\/images\/all\/groza.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/groza.png"
 			},
 			{
 				"id": "6",
 				"name": "AUG-A3",
-				"image": "\/images\/all\/aug.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/aug.png"
 			},
 			{
 				"id": "7",
 				"name": "QBZ",
-				"image": "\/images\/all\/qbz.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbz.png"
 			},
 			{
 				"id": "8",
 				"name": "M762",
-				"image": "\/images\/all\/m762.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m762.png"
 			},
 			{
 				"id": "44",
 				"name": "MK47-Mutant",
-				"image": "\/images\/all\/mk47.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/mk47.png"
 			},
 			{
 				"id": "45",
 				"name": "G36C",
-				"image": "\/images\/all\/g36c.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/g36c.png"
 			}
 		]
 	},
@@ -268,30 +263,29 @@
 		"details": {
 			"id": "30",
 			"name": "Quickdraw (SMG)",
-			"short_des": "",
-			"image": "\/images\/all\/quickdraw-mag-smg.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-smg.png",
 			"useon": "UZI,UMP45,Vector,Thompson SMG"
 		},
 		"guns": [
 			{
 				"id": "19",
 				"name": "UZI",
-				"image": "\/images\/all\/uzi.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/uzi.png"
 			},
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/ump45.png"
 			},
 			{
 				"id": "21",
 				"name": "Vector",
-				"image": "\/images\/all\/vector.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/vector.png"
 			},
 			{
 				"id": "22",
 				"name": "Thompson SMG",
-				"image": "\/images\/all\/thompson.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/thompson.png"
 			}
 		]
 	},
@@ -299,60 +293,59 @@
 		"details": {
 			"id": "31",
 			"name": "Quickdraw (Sniper)",
-			"short_des": "",
-			"image": "\/images\/all\/quickdraw-mag-sniper.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-sniper.png",
 			"useon": "Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU"
 		},
 		"guns": [
 			{
 				"id": "9",
 				"name": "Kar98K",
-				"image": "\/images\/all\/kar98k.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/kar98k.png"
 			},
 			{
 				"id": "10",
 				"name": "M24",
-				"image": "\/images\/all\/m24.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m24.png"
 			},
 			{
 				"id": "11",
 				"name": "AWM",
-				"image": "\/images\/all\/awm.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/awm.png"
 			},
 			{
 				"id": "12",
 				"name": "Win94",
-				"image": "\/images\/all\/win94.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/win94.png"
 			},
 			{
 				"id": "13",
 				"name": "SKS",
-				"image": "\/images\/all\/sks.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/sks.png"
 			},
 			{
 				"id": "14",
 				"name": "VSS",
-				"image": "\/images\/all\/vss.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/vss.png"
 			},
 			{
 				"id": "15",
 				"name": "Mini 14",
-				"image": "\/images\/all\/mini14.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/mini14.png"
 			},
 			{
 				"id": "16",
 				"name": "MK14",
-				"image": "\/images\/all\/mk14.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/mk14.png"
 			},
 			{
 				"id": "17",
 				"name": "SLR",
-				"image": "\/images\/all\/slr.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/slr.png"
 			},
 			{
 				"id": "18",
 				"name": "QBU",
-				"image": "\/images\/all\/qbu.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbu.png"
 			}
 		]
 	},
@@ -360,50 +353,49 @@
 		"details": {
 			"id": "32",
 			"name": "Quickdraw (Pistol)",
-			"short_des": "",
-			"image": "\/images\/all\/quickdraw-mag-pistol.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-pistol.png",
 			"useon": "P92,P1911,R1895,P18C,R45,Sawed-off,Skorpion,Desert Eagle"
 		},
 		"guns": [
 			{
 				"id": "28",
 				"name": "P92",
-				"image": "\/images\/all\/p92.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/p92.png"
 			},
 			{
 				"id": "29",
 				"name": "P1911",
-				"image": "\/images\/all\/p1911.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/p1911.png"
 			},
 			{
 				"id": "30",
 				"name": "R1895",
-				"image": "\/images\/all\/r1895.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/r1895.png"
 			},
 			{
 				"id": "31",
 				"name": "P18C",
-				"image": "\/images\/all\/p18c.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/p18c.png"
 			},
 			{
 				"id": "32",
 				"name": "R45",
-				"image": "\/images\/all\/r45.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/r45.png"
 			},
 			{
 				"id": "33",
 				"name": "Sawed-off",
-				"image": "\/images\/all\/sawed-off.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/sawed-off.png"
 			},
 			{
 				"id": "54",
 				"name": "Skorpion",
-				"image": "\/images\/all\/Icon_weapon_Skorpion.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/Icon_weapon_Skorpion.png"
 			},
 			{
 				"id": "55",
 				"name": "Desert Eagle",
-				"image": "\/images\/all\/Desert-eagle.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/Desert-eagle.png"
 			}
 		]
 	},
@@ -411,60 +403,59 @@
 		"details": {
 			"id": "33",
 			"name": "Extended (AR)",
-			"short_des": "",
-			"image": "\/images\/all\/extended-mag-ar.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-ar.png",
 			"useon": "AKM,M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,MK47-Mutant,G36C"
 		},
 		"guns": [
 			{
 				"id": "1",
 				"name": "AKM",
-				"image": "\/images\/all\/akm.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/akm.png"
 			},
 			{
 				"id": "2",
 				"name": "M16A4",
-				"image": "\/images\/all\/m16a4.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m16a4.png"
 			},
 			{
 				"id": "3",
 				"name": "Scar-L",
-				"image": "\/images\/all\/scar-l.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/scar-l.png"
 			},
 			{
 				"id": "4",
 				"name": "M416",
-				"image": "\/images\/all\/m416.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m416.png"
 			},
 			{
 				"id": "5",
 				"name": "Groza",
-				"image": "\/images\/all\/groza.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/groza.png"
 			},
 			{
 				"id": "6",
 				"name": "AUG-A3",
-				"image": "\/images\/all\/aug.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/aug.png"
 			},
 			{
 				"id": "7",
 				"name": "QBZ",
-				"image": "\/images\/all\/qbz.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbz.png"
 			},
 			{
 				"id": "8",
 				"name": "M762",
-				"image": "\/images\/all\/m762.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m762.png"
 			},
 			{
 				"id": "44",
 				"name": "MK47-Mutant",
-				"image": "\/images\/all\/mk47.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/mk47.png"
 			},
 			{
 				"id": "45",
 				"name": "G36C",
-				"image": "\/images\/all\/g36c.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/g36c.png"
 			}
 		]
 	},
@@ -472,30 +463,29 @@
 		"details": {
 			"id": "34",
 			"name": "Extended (SMG)",
-			"short_des": "",
-			"image": "\/images\/all\/extended-mag-smg.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-smg.png",
 			"useon": "UZI,UMP45,Vector,Thompson SMG"
 		},
 		"guns": [
 			{
 				"id": "19",
 				"name": "UZI",
-				"image": "\/images\/all\/uzi.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/uzi.png"
 			},
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/ump45.png"
 			},
 			{
 				"id": "21",
 				"name": "Vector",
-				"image": "\/images\/all\/vector.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/vector.png"
 			},
 			{
 				"id": "22",
 				"name": "Thompson SMG",
-				"image": "\/images\/all\/thompson.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/thompson.png"
 			}
 		]
 	},
@@ -503,60 +493,59 @@
 		"details": {
 			"id": "35",
 			"name": "Extended (Sniper)",
-			"short_des": "",
-			"image": "\/images\/all\/extended-mag-sniper.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-sniper.png",
 			"useon": "Kar98K,M24,AWM,Win94,SKS,VSS,Mini 14,MK14,SLR,QBU"
 		},
 		"guns": [
 			{
 				"id": "9",
 				"name": "Kar98K",
-				"image": "\/images\/all\/kar98k.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/kar98k.png"
 			},
 			{
 				"id": "10",
 				"name": "M24",
-				"image": "\/images\/all\/m24.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m24.png"
 			},
 			{
 				"id": "11",
 				"name": "AWM",
-				"image": "\/images\/all\/awm.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/awm.png"
 			},
 			{
 				"id": "12",
 				"name": "Win94",
-				"image": "\/images\/all\/win94.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/win94.png"
 			},
 			{
 				"id": "13",
 				"name": "SKS",
-				"image": "\/images\/all\/sks.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/sks.png"
 			},
 			{
 				"id": "14",
 				"name": "VSS",
-				"image": "\/images\/all\/vss.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/vss.png"
 			},
 			{
 				"id": "15",
 				"name": "Mini 14",
-				"image": "\/images\/all\/mini14.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/mini14.png"
 			},
 			{
 				"id": "16",
 				"name": "MK14",
-				"image": "\/images\/all\/mk14.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/mk14.png"
 			},
 			{
 				"id": "17",
 				"name": "SLR",
-				"image": "\/images\/all\/slr.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/slr.png"
 			},
 			{
 				"id": "18",
 				"name": "QBU",
-				"image": "\/images\/all\/qbu.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbu.png"
 			}
 		]
 	},
@@ -564,50 +553,49 @@
 		"details": {
 			"id": "36",
 			"name": "Extended (Pistol)",
-			"short_des": "",
-			"image": "\/images\/all\/extended-mag-pistol.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-pistol.png",
 			"useon": "P92,P1911,R1895,P18C,R45,Sawed-off,Skorpion,Desert Eagle"
 		},
 		"guns": [
 			{
 				"id": "28",
 				"name": "P92",
-				"image": "\/images\/all\/p92.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/p92.png"
 			},
 			{
 				"id": "29",
 				"name": "P1911",
-				"image": "\/images\/all\/p1911.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/p1911.png"
 			},
 			{
 				"id": "30",
 				"name": "R1895",
-				"image": "\/images\/all\/r1895.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/r1895.png"
 			},
 			{
 				"id": "31",
 				"name": "P18C",
-				"image": "\/images\/all\/p18c.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/p18c.png"
 			},
 			{
 				"id": "32",
 				"name": "R45",
-				"image": "\/images\/all\/r45.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/r45.png"
 			},
 			{
 				"id": "33",
 				"name": "Sawed-off",
-				"image": "\/images\/all\/sawed-off.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/sawed-off.png"
 			},
 			{
 				"id": "54",
 				"name": "Skorpion",
-				"image": "\/images\/all\/Icon_weapon_Skorpion.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/Icon_weapon_Skorpion.png"
 			},
 			{
 				"id": "55",
 				"name": "Desert Eagle",
-				"image": "\/images\/all\/Desert-eagle.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/Desert-eagle.png"
 			}
 		]
 	}

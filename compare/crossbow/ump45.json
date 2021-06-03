@@ -2,7 +2,7 @@
 	{
 		"id": "39",
 		"name": "Crossbow",
-		"image": "\/images\/all\/crossbow.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/crossbow.png",
 		"short_description": "A crossbow is a type of elastic ranged weapon in similar principle to a bow, consisting of a bow-like assembly called a prod.",
 		"bullet_type": "Bolt",
 		"without_mag": "1",
@@ -19,37 +19,37 @@
 			"bullet": [
 				{
 					"name": "Bolt",
-					"image": "\/images\/all\/bolt.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/bolt.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "\/images\/all\/holographic.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "\/images\/all\/red-dot.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "\/images\/all\/2x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "\/images\/all\/3x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "\/images\/all\/4x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "\/images\/all\/6x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/6x.png"
 				},
 				{
 					"name": "Quiver",
-					"image": "\/images\/all\/quiver.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quiver.png"
 				}
 			]
 		}
@@ -57,7 +57,7 @@
 	{
 		"id": "20",
 		"name": "UMP45",
-		"image": "\/images\/all\/ump9.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/ump45.png",
 		"short_description": "The UMP has been adopted by various agencies such as the U.S. Customs and Border Protection.",
 		"bullet_type": "9mm",
 		"without_mag": "30",
@@ -74,61 +74,61 @@
 			"bullet": [
 				{
 					"name": ".45 ACP",
-					"image": "\/images\/all\/45acp.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/45acp.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "\/images\/all\/holographic.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "\/images\/all\/red-dot.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "\/images\/all\/2x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "\/images\/all\/3x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "\/images\/all\/4x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "\/images\/all\/6x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/6x.png"
 				},
 				{
 					"name": "Ext. Quickd (SMG)",
-					"image": "\/images\/all\/extended-quickdraw-mag-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-smg.png"
 				},
 				{
 					"name": "Quickdraw (SMG)",
-					"image": "\/images\/all\/quickdraw-mag-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-smg.png"
 				},
 				{
 					"name": "Extended (SMG)",
-					"image": "\/images\/all\/extended-mag-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-smg.png"
 				},
 				{
 					"name": "Suppressor (SMG)",
-					"image": "\/images\/all\/supressor-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/supressor-smg.png"
 				},
 				{
 					"name": "Flash Hider (SMG)",
-					"image": "\/images\/all\/flash-hider-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flash-hider-smg.png"
 				},
 				{
 					"name": "Compensator (SMG)",
-					"image": "\/images\/all\/compensator-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/compensator-smg.png"
 				},
 				{
 					"name": "Stock Micro",
-					"image": "\/images\/all\/stock-micro.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/stock-micro.png"
 				}
 			]
 		}

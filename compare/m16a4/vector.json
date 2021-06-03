@@ -2,7 +2,7 @@
 	{
 		"id": "2",
 		"name": "M16A4",
-		"image": "\/images\/all\/m16a4.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m16a4.png",
 		"short_description": "The M16A4 is an assault rifle type weapon in BATTLEGROUNDS.",
 		"bullet_type": "5.56mm",
 		"without_mag": "30",
@@ -19,89 +19,89 @@
 			"bullet": [
 				{
 					"name": "5.56mm",
-					"image": "\/images\/all\/5_56mm.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/5_56mm.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "\/images\/all\/holographic.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "\/images\/all\/red-dot.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "\/images\/all\/2x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "\/images\/all\/3x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "\/images\/all\/4x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "\/images\/all\/6x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/6x.png"
 				},
 				{
 					"name": "Ext. Quickdraw  (AR)",
-					"image": "\/images\/all\/extended-quickdraw-mag-ar.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-ar.png"
 				},
 				{
 					"name": "Quickdraw (AR)",
-					"image": "\/images\/all\/quickdraw-mag-ar.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-ar.png"
 				},
 				{
 					"name": "Extended (AR)",
-					"image": "\/images\/all\/extended-mag-ar.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-ar.png"
 				},
 				{
 					"name": "Suppressor (AR)",
-					"image": "\/images\/all\/supressor-ar.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/supressor-ar.png"
 				},
 				{
 					"name": "Flash Hider (AR)",
-					"image": "\/images\/all\/flash-hider-ar.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flash-hider-ar.png"
 				},
 				{
 					"name": "Compensator (AR)",
-					"image": "\/images\/all\/compensator-ar.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/compensator-ar.png"
 				},
 				{
 					"name": "Thumb Grip",
-					"image": "\/images\/all\/thumb-grip.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/thumb-grip.png"
 				},
 				{
 					"name": "Laser Sight",
-					"image": "\/images\/all\/laser-sight.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/laser-sight.png"
 				},
 				{
 					"name": "Half Grip",
-					"image": "\/images\/all\/half-grip.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/half-grip.png"
 				},
 				{
 					"name": "Light Grip",
-					"image": "\/images\/all\/light-grip.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/light-grip.png"
 				},
 				{
 					"name": "Verticle Grip",
-					"image": "\/images\/all\/verticle-grip.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/verticle-grip.png"
 				},
 				{
 					"name": "Angled Grip",
-					"image": "\/images\/all\/angled-grip.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/angled-grip.png"
 				},
 				{
 					"name": "Cheek Pad",
-					"image": "\/images\/all\/cheek-pad.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/cheek-pad.png"
 				},
 				{
 					"name": "Tact Stock",
-					"image": "\/images\/all\/tact-stock.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/tact-stock.png"
 				}
 			]
 		}
@@ -109,7 +109,7 @@
 	{
 		"id": "21",
 		"name": "Vector",
-		"image": "\/images\/all\/vector.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/vector.png",
 		"short_description": "",
 		"bullet_type": ".45 ACP",
 		"without_mag": "15",
@@ -126,61 +126,61 @@
 			"bullet": [
 				{
 					"name": "9mm",
-					"image": "\/images\/all\/9mm.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/9mm.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "\/images\/all\/holographic.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "\/images\/all\/red-dot.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "\/images\/all\/2x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "\/images\/all\/3x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "\/images\/all\/4x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "\/images\/all\/6x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/6x.png"
 				},
 				{
 					"name": "Ext. Quickd (SMG)",
-					"image": "\/images\/all\/extended-quickdraw-mag-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-smg.png"
 				},
 				{
 					"name": "Quickdraw (SMG)",
-					"image": "\/images\/all\/quickdraw-mag-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-smg.png"
 				},
 				{
 					"name": "Extended (SMG)",
-					"image": "\/images\/all\/extended-mag-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-smg.png"
 				},
 				{
 					"name": "Suppressor (SMG)",
-					"image": "\/images\/all\/supressor-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/supressor-smg.png"
 				},
 				{
 					"name": "Flash Hider (SMG)",
-					"image": "\/images\/all\/flash-hider-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flash-hider-smg.png"
 				},
 				{
 					"name": "Compensator (SMG)",
-					"image": "\/images\/all\/compensator-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/compensator-smg.png"
 				},
 				{
 					"name": "Stock Micro",
-					"image": "\/images\/all\/stock-micro.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/stock-micro.png"
 				}
 			]
 		}

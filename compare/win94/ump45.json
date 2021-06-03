@@ -2,7 +2,7 @@
 	{
 		"id": "12",
 		"name": "Win94",
-		"image": "\/images\/all\/win94.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/win94.png",
 		"short_description": "",
 		"bullet_type": ".45 ACP",
 		"without_mag": "5",
@@ -19,61 +19,61 @@
 			"bullet": [
 				{
 					"name": ".45 ACP",
-					"image": "\/images\/all\/45acp.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/45acp.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "\/images\/all\/holographic.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "\/images\/all\/red-dot.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "\/images\/all\/2x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "\/images\/all\/3x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "\/images\/all\/4x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "\/images\/all\/6x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/6x.png"
 				},
 				{
 					"name": "Ext. Quickdraw (Sniper)",
-					"image": "\/images\/all\/extended-quickdraw-mag-sniper.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-sniper.png"
 				},
 				{
 					"name": "Quickdraw (Sniper)",
-					"image": "\/images\/all\/quickdraw-mag-sniper.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-sniper.png"
 				},
 				{
 					"name": "Extended (Sniper)",
-					"image": "\/images\/all\/extended-mag-sniper.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-sniper.png"
 				},
 				{
 					"name": "Suppressor (SNIPER)",
-					"image": "\/images\/all\/supressor-sniper.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/supressor-sniper.png"
 				},
 				{
 					"name": "Flash Hider (Sniper)",
-					"image": "\/images\/all\/flash-hider-sniper.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flash-hider-sniper.png"
 				},
 				{
 					"name": "Compensator (Sniper)",
-					"image": "\/images\/all\/compensator-sniper.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/compensator-sniper.png"
 				},
 				{
 					"name": "Bulletloop (Kar98K, Win94)",
-					"image": "\/images\/all\/bulletloop-kar98k-win94.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/bulletloop-kar98k-win94.png"
 				}
 			]
 		}
@@ -81,7 +81,7 @@
 	{
 		"id": "20",
 		"name": "UMP45",
-		"image": "\/images\/all\/ump9.png",
+		"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/ump45.png",
 		"short_description": "The UMP has been adopted by various agencies such as the U.S. Customs and Border Protection.",
 		"bullet_type": "9mm",
 		"without_mag": "30",
@@ -98,61 +98,61 @@
 			"bullet": [
 				{
 					"name": ".45 ACP",
-					"image": "\/images\/all\/45acp.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/45acp.png"
 				}
 			],
 			"attach": [
 				{
 					"name": "Holographic",
-					"image": "\/images\/all\/holographic.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/holographic.png"
 				},
 				{
 					"name": "Red Dot",
-					"image": "\/images\/all\/red-dot.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/red-dot.png"
 				},
 				{
 					"name": "2x Scope",
-					"image": "\/images\/all\/2x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/2x.png"
 				},
 				{
 					"name": "3x Scope",
-					"image": "\/images\/all\/3x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/3x.png"
 				},
 				{
 					"name": "4x Scope",
-					"image": "\/images\/all\/4x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/4x.png"
 				},
 				{
 					"name": "6x Scope",
-					"image": "\/images\/all\/6x.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/6x.png"
 				},
 				{
 					"name": "Ext. Quickd (SMG)",
-					"image": "\/images\/all\/extended-quickdraw-mag-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-quickdraw-mag-smg.png"
 				},
 				{
 					"name": "Quickdraw (SMG)",
-					"image": "\/images\/all\/quickdraw-mag-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quickdraw-mag-smg.png"
 				},
 				{
 					"name": "Extended (SMG)",
-					"image": "\/images\/all\/extended-mag-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/extended-mag-smg.png"
 				},
 				{
 					"name": "Suppressor (SMG)",
-					"image": "\/images\/all\/supressor-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/supressor-smg.png"
 				},
 				{
 					"name": "Flash Hider (SMG)",
-					"image": "\/images\/all\/flash-hider-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/flash-hider-smg.png"
 				},
 				{
 					"name": "Compensator (SMG)",
-					"image": "\/images\/all\/compensator-smg.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/compensator-smg.png"
 				},
 				{
 					"name": "Stock Micro",
-					"image": "\/images\/all\/stock-micro.png"
+					"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/stock-micro.png"
 				}
 			]
 		}

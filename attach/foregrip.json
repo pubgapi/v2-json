@@ -3,15 +3,14 @@
 		"details": {
 			"id": "1",
 			"name": "Quiver",
-			"short_des": "A quiver is a container for holding arrows, bolts, or darts.",
-			"image": "\/images\/all\/quiver.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/quiver.png",
 			"useon": "Crossbow"
 		},
 		"guns": [
 			{
 				"id": "39",
 				"name": "Crossbow",
-				"image": "\/images\/all\/crossbow.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/crossbow.png"
 			}
 		]
 	},
@@ -19,55 +18,54 @@
 		"details": {
 			"id": "4",
 			"name": "Thumb Grip",
-			"short_des": "",
-			"image": "\/images\/all\/thumb-grip.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/thumb-grip.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C,UMP45"
 		},
 		"guns": [
 			{
 				"id": "2",
 				"name": "M16A4",
-				"image": "\/images\/all\/m16a4.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m16a4.png"
 			},
 			{
 				"id": "3",
 				"name": "Scar-L",
-				"image": "\/images\/all\/scar-l.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/scar-l.png"
 			},
 			{
 				"id": "4",
 				"name": "M416",
-				"image": "\/images\/all\/m416.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m416.png"
 			},
 			{
 				"id": "5",
 				"name": "Groza",
-				"image": "\/images\/all\/groza.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/groza.png"
 			},
 			{
 				"id": "6",
 				"name": "AUG-A3",
-				"image": "\/images\/all\/aug.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/aug.png"
 			},
 			{
 				"id": "7",
 				"name": "QBZ",
-				"image": "\/images\/all\/qbz.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbz.png"
 			},
 			{
 				"id": "8",
 				"name": "M762",
-				"image": "\/images\/all\/m762.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m762.png"
 			},
 			{
 				"id": "45",
 				"name": "G36C",
-				"image": "\/images\/all\/g36c.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/g36c.png"
 			},
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/ump45.png"
 			}
 		]
 	},
@@ -75,50 +73,49 @@
 		"details": {
 			"id": "5",
 			"name": "Laser Sight",
-			"short_des": "",
-			"image": "\/images\/all\/laser-sight.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/laser-sight.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C"
 		},
 		"guns": [
 			{
 				"id": "2",
 				"name": "M16A4",
-				"image": "\/images\/all\/m16a4.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m16a4.png"
 			},
 			{
 				"id": "3",
 				"name": "Scar-L",
-				"image": "\/images\/all\/scar-l.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/scar-l.png"
 			},
 			{
 				"id": "4",
 				"name": "M416",
-				"image": "\/images\/all\/m416.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m416.png"
 			},
 			{
 				"id": "5",
 				"name": "Groza",
-				"image": "\/images\/all\/groza.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/groza.png"
 			},
 			{
 				"id": "6",
 				"name": "AUG-A3",
-				"image": "\/images\/all\/aug.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/aug.png"
 			},
 			{
 				"id": "7",
 				"name": "QBZ",
-				"image": "\/images\/all\/qbz.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbz.png"
 			},
 			{
 				"id": "8",
 				"name": "M762",
-				"image": "\/images\/all\/m762.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m762.png"
 			},
 			{
 				"id": "45",
 				"name": "G36C",
-				"image": "\/images\/all\/g36c.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/g36c.png"
 			}
 		]
 	},
@@ -126,55 +123,54 @@
 		"details": {
 			"id": "6",
 			"name": "Half Grip",
-			"short_des": "",
-			"image": "\/images\/all\/half-grip.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/half-grip.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C,UMP45"
 		},
 		"guns": [
 			{
 				"id": "2",
 				"name": "M16A4",
-				"image": "\/images\/all\/m16a4.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m16a4.png"
 			},
 			{
 				"id": "3",
 				"name": "Scar-L",
-				"image": "\/images\/all\/scar-l.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/scar-l.png"
 			},
 			{
 				"id": "4",
 				"name": "M416",
-				"image": "\/images\/all\/m416.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m416.png"
 			},
 			{
 				"id": "5",
 				"name": "Groza",
-				"image": "\/images\/all\/groza.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/groza.png"
 			},
 			{
 				"id": "6",
 				"name": "AUG-A3",
-				"image": "\/images\/all\/aug.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/aug.png"
 			},
 			{
 				"id": "7",
 				"name": "QBZ",
-				"image": "\/images\/all\/qbz.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbz.png"
 			},
 			{
 				"id": "8",
 				"name": "M762",
-				"image": "\/images\/all\/m762.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m762.png"
 			},
 			{
 				"id": "45",
 				"name": "G36C",
-				"image": "\/images\/all\/g36c.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/g36c.png"
 			},
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/ump45.png"
 			}
 		]
 	},
@@ -182,55 +178,54 @@
 		"details": {
 			"id": "7",
 			"name": "Light Grip",
-			"short_des": "",
-			"image": "\/images\/all\/light-grip.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/light-grip.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C,UMP45"
 		},
 		"guns": [
 			{
 				"id": "2",
 				"name": "M16A4",
-				"image": "\/images\/all\/m16a4.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m16a4.png"
 			},
 			{
 				"id": "3",
 				"name": "Scar-L",
-				"image": "\/images\/all\/scar-l.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/scar-l.png"
 			},
 			{
 				"id": "4",
 				"name": "M416",
-				"image": "\/images\/all\/m416.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m416.png"
 			},
 			{
 				"id": "5",
 				"name": "Groza",
-				"image": "\/images\/all\/groza.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/groza.png"
 			},
 			{
 				"id": "6",
 				"name": "AUG-A3",
-				"image": "\/images\/all\/aug.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/aug.png"
 			},
 			{
 				"id": "7",
 				"name": "QBZ",
-				"image": "\/images\/all\/qbz.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbz.png"
 			},
 			{
 				"id": "8",
 				"name": "M762",
-				"image": "\/images\/all\/m762.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m762.png"
 			},
 			{
 				"id": "45",
 				"name": "G36C",
-				"image": "\/images\/all\/g36c.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/g36c.png"
 			},
 			{
 				"id": "20",
 				"name": "UMP45",
-				"image": "\/images\/all\/ump9.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/ump45.png"
 			}
 		]
 	},
@@ -238,50 +233,49 @@
 		"details": {
 			"id": "8",
 			"name": "Verticle Grip",
-			"short_des": "",
-			"image": "\/images\/all\/verticle-grip.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/verticle-grip.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C"
 		},
 		"guns": [
 			{
 				"id": "2",
 				"name": "M16A4",
-				"image": "\/images\/all\/m16a4.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m16a4.png"
 			},
 			{
 				"id": "3",
 				"name": "Scar-L",
-				"image": "\/images\/all\/scar-l.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/scar-l.png"
 			},
 			{
 				"id": "4",
 				"name": "M416",
-				"image": "\/images\/all\/m416.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m416.png"
 			},
 			{
 				"id": "5",
 				"name": "Groza",
-				"image": "\/images\/all\/groza.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/groza.png"
 			},
 			{
 				"id": "6",
 				"name": "AUG-A3",
-				"image": "\/images\/all\/aug.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/aug.png"
 			},
 			{
 				"id": "7",
 				"name": "QBZ",
-				"image": "\/images\/all\/qbz.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbz.png"
 			},
 			{
 				"id": "8",
 				"name": "M762",
-				"image": "\/images\/all\/m762.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m762.png"
 			},
 			{
 				"id": "45",
 				"name": "G36C",
-				"image": "\/images\/all\/g36c.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/g36c.png"
 			}
 		]
 	},
@@ -289,50 +283,49 @@
 		"details": {
 			"id": "9",
 			"name": "Angled Grip",
-			"short_des": "",
-			"image": "\/images\/all\/angled-grip.png",
+			"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/angled-grip.png",
 			"useon": "M16A4,Scar-L,M416,Groza,AUG-A3,QBZ,M762,G36C"
 		},
 		"guns": [
 			{
 				"id": "2",
 				"name": "M16A4",
-				"image": "\/images\/all\/m16a4.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m16a4.png"
 			},
 			{
 				"id": "3",
 				"name": "Scar-L",
-				"image": "\/images\/all\/scar-l.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/scar-l.png"
 			},
 			{
 				"id": "4",
 				"name": "M416",
-				"image": "\/images\/all\/m416.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m416.png"
 			},
 			{
 				"id": "5",
 				"name": "Groza",
-				"image": "\/images\/all\/groza.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/groza.png"
 			},
 			{
 				"id": "6",
 				"name": "AUG-A3",
-				"image": "\/images\/all\/aug.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/aug.png"
 			},
 			{
 				"id": "7",
 				"name": "QBZ",
-				"image": "\/images\/all\/qbz.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/qbz.png"
 			},
 			{
 				"id": "8",
 				"name": "M762",
-				"image": "\/images\/all\/m762.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/m762.png"
 			},
 			{
 				"id": "45",
 				"name": "G36C",
-				"image": "\/images\/all\/g36c.png"
+				"image": "https://raw.githubusercontent.com/pubgapi/v2-json/main\/images\/all\/g36c.png"
 			}
 		]
 	}
